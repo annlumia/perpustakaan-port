@@ -2,11 +2,11 @@
 Small library for standart port.
 
 
-### Modbus TCP
+### Modbus TCP/IP
 
 | Port | Protocol | Description |
 |------|----------|-------------|
-| 18245 | SRTP | Programming & data acquitition |
+| 502 | ModBus TCP/IP | Data acquisition |
 
 
 
@@ -16,5 +16,5 @@ Small library for standart port.
 
 | Port | Protocol | Description |
 |------|----------|-------------|
-| 18245 | SRTP | Programming & data acquitition |
+| 18245 | SRTP | Programming & data acquisition |
 
