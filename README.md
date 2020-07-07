@@ -10,7 +10,7 @@ Small library for standart port.
 
 
 
-### PLC GE
+### GE PLC
 
 > Tested on Versamax and PME V8.0
 
